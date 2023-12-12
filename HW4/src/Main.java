@@ -12,6 +12,9 @@ public class Main {
 //        && логическое И
 //        || логическое ИЛИ
 
+//        if связанная переменная
+//        else несвязанная переменная
+
 
           int a = new Scanner(System.in).nextInt();
 
